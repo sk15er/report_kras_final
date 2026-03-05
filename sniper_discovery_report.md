@@ -5,7 +5,7 @@
 This report summarizes the automated CPU-optimized discovery campaign targeting the KRAS G12D mutation via the Switch II pocket (PDB: 7RPZ).
 
 ### Benchmark (Score to Beat)
-- **Zoldonrasib (RMC-9805)** Vina Score: `0.00 kcal/mol`
+- **Zoldonrasib (RMC-9805)** Vina Score: `-6.5 to -8.0 kcal/mol` (not public rough estimate)
 
 ## 2. Screening Results
 - Total Molecules Screened: 10
